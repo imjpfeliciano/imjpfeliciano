@@ -1,8 +1,12 @@
-<p align="center" width="300" style="border-radius: 50%;">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/6007230?v=4" style="overflow: hidden; border-radius:50%"/>
-   <h3 align="center">¡Hey 👋! I'm Jonathan Peraza 👨🏻‍💻</h3>
-</p>
 
+<table align="center">
+  <td>
+    <p align="center" width="300">
+      <img align="center" src="https://avatars.githubusercontent.com/u/6007230?v=4" style="overflow: hidden; border-radius:50%"/>
+      <h3 align="center">¡Hey 👋! I'm Jonathan Peraza 👨🏻‍💻</h3>
+    </p>
+  </td>
+</table>
 <p align="center">I'm a <strong>Javascript Fullstack Developer</strong> with over 6 years of experience.<br />¡Follow my other social media 👇!</p>
 
 <p align="center">
