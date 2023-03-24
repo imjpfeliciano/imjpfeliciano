@@ -1,5 +1,5 @@
-<p align="center" width="300" style="border-radius: 50%;">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/6007230?v=4" style="overflow: hidden; border-radius:50%"/>
+<p style="border-radius: 50%; overflow:hidden;background-color: red; width:300px; height:300px;display:flex; justify-content:center;align-items:center;margin:0 auto;">
+   <img align="center" width="300" src="https://avatars.githubusercontent.com/u/6007230?v=4" "/>
    <h3 align="center">¡Hey 👋! I'm Jonathan Peraza 👨🏻‍💻</h3>
 </p>
 
