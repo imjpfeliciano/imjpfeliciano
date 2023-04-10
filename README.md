@@ -1,13 +1,11 @@
+<!-- <img align="center" src="https://avatars.githubusercontent.com/u/6007230?v=4" style="overflow: hidden; border-radius:50%"/> -->
 
-<table align="center">
-  <td>
-    <p align="center" width="300">
-      <img align="center" src="https://avatars.githubusercontent.com/u/6007230?v=4" style="overflow: hidden; border-radius:50%"/>
-      <h3 align="center">¡Hey 👋! I'm Jonathan Peraza 👨🏻‍💻</h3>
-    </p>
-  </td>
-</table>
-<p align="center">I'm a <strong>Javascript Fullstack Developer</strong> with over 6 years of experience.<br />¡Follow my other social media 👇!</p>
+<div style="width: 100%; margin:">
+  
+  <h1 align="center" style="font-size:4rem;">¡Hey 👋! I'm <span style="color:greenyellow;">Jonathan</span><span>Peraza</span> 👨🏻‍💻</h1>
+</div>
+
+<p align="center" style="font-size: 2rem;">I'm a <strong>Javascript Fullstack Developer</strong> with over 6 years of experience.<br />¡Follow my other social media 👇!</p>
 
 <p align="center">
    <a href="https://twitch.tv/jpfelicianodev" target="blank" style='margin-right:4px'>
