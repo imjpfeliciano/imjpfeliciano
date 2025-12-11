@@ -2,7 +2,7 @@
 
 <div style="width: 100%; margin:">
   
-  <h1 align="center" style="font-size:4rem;">¡Hey 👋! I'm <span style="color:greenyellow;">Jonathan</span> <span>Peraza</span> 👨🏻‍💻</h1>
+  <h1 align="center" style="font-size:3rem;">¡Hey 👋! I'm <span style="color:greenyellow;">Jonathan</span> <span>Peraza</span> 👨🏻‍💻</h1>
 </div>
 
 <p align="center" style="font-size: 2rem;">I'm a <strong>Javascript Fullstack Developer</strong> with over 6 years of experience.<br />¡Follow my other social media 👇!</p>
