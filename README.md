@@ -14,8 +14,9 @@ I'm a <strong>Javascript Fullstack Developer</strong> with over 8 years of exper
 ## 🌐 Launched Side Projects
 
 - **[alpha-finance.app](https://alpha-finance.app)** - Financial tracking web platform
-- **[opportunity-tracker.app](https://opportunity-tracker.app)** - Opportunity management application
+- **[crop-emoji.app](https://crop-emoji.app)** - Image splitter to extend your custom emojis on Slack.
 - **[omi-qroo.com](https://www.omi-qroo.com/)** - Mexican Olympiad in Informatics (Quintana Roo) platform with resources, problems, and results
+- **[opportunity-tracker.app](https://opportunity-tracker.app)** - Opportunity management application
 
 ## 🚀 Notable Projects & Contributions
 
