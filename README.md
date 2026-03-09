@@ -5,7 +5,7 @@
   <h1 align="center" style="font-size:3rem;">¡Hey 👋! I'm <span style="color:greenyellow;">Jonathan</span> <span>Peraza</span> 👨🏻‍💻</h1>
 </div>
 
-<p align="center" style="font-size: 2rem;">
+<p  style="font-size: 2rem;">
 I'm a <strong>Javascript Fullstack Developer</strong> with over 8 years of experience, specializing in <strong>frontend development</strong>, <strong>design systems</strong>, and <strong>accessibility</strong>. Passionate about creating scalable web applications and mentoring developers. I've conducted <strong>150+ technical interviews</strong> and led bootcamps on React and algorithms.
 </p>
 
@@ -70,17 +70,6 @@ I'm a <strong>Javascript Fullstack Developer</strong> with over 8 years of exper
 
 ## 📱 Connect With Me
 
-<p align="center">
-  <a href="https://twitch.tv/jpfelicianodev" target="blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
-  <a href="https://youtube.com/@imjpfeliciano" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/jp.feliciano" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/JonathanPerazaF" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+- **Portfolio:** https://imjpfeliciano.dev
+- **LinkedIn:** https://www.linkedin.com/in/jpfeliciano
+- **Email:** jperazafeliciano@gmail.com
